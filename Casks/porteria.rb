@@ -1,6 +1,6 @@
 cask "porteria" do
-  version "0.5.0"
-  sha256 "af5a4f2193cee37942f9e14dfb158b65a1b4800b514021fb5a2f639c3cb4e43a"
+  version "0.6.0"
+  sha256 "98ff032166afbbb366454143cf6fe0b3fc738fc1b8d86314e10b44c06f94760c"
 
   url "https://github.com/JVLegend/PorterIA/releases/download/v#{version}/PorterIA-#{version}.dmg"
   name "PorterIA"
